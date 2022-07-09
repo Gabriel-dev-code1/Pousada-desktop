@@ -18,7 +18,7 @@ if menu == 1:
     print('detalhes da reserva:\n')
     print(f'Nome: {nome}\n'
           f'Quantidade de quartos: {quartos}\n'
-          f'Quantida de dias de hospedagem: {dias}')
+          f'Quantidade de dias de hospedagem: {dias}')
 elif menu == 2:
         email= str(input('digite seu email: '))
         senha= str(input('Agora, digite sua senha: '))
